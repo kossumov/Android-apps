@@ -1,0 +1,37 @@
+1405243689668	Rename field 'mSugnUpTextView'
+1405253596470	Extract method 'navigateToLogin'
+1405268251280	Delete element
+1405291390826	Rename type 'InboxDragment'
+1405292092871	Rename resource 'fragment_main.xml'
+1405292196381	Copy compilation unit
+1405292343485	Copy file
+1405317708419	Delete element
+1405324513242	Rename local variable 'arg0'
+1405324555884	Rename local variable 'argrequestCode0'
+1405324572036	Rename local variable 'arg1'
+1405324581138	Rename local variable 'arg2'
+1405330310536	Extracts string 'Choose some friends first!' into R.string.empty_recepients_list_message
+1405331496994	Delete element
+1405331501382	Delete element
+1405331643814	Extracts string 'Send' into R.string.menu_send_label
+1405419311853	Delete element
+1405439732075	Move compilation unit
+1405439766266	Move compilation unit
+1405439774657	Delete element
+1405441658984	Delete element
+1405441717675	Rename resource 'xxhdpi'
+1405441731388	Rename resource 'xxxhdpi'
+1405446658150	Extracts string 'Ribbit Frog Background Image' into R.string.content_desc_background
+1405447075932	Extracts string 'A Treehouse Project' into R.string.subtitle
+1405451374475	Delete element
+1405451429241	Delete element
+1405451451644	Delete element
+1405454652586	Extract Style
+1405455013463	Extract Style
+1405455232638	Extract Style
+1405455672670	Extract as Include
+1405455906178	Extract Style
+1405456338974	Extract Style
+1405456445039	Extract Style
+1405456566066	Delete element
+1405457123651	Extract Style
